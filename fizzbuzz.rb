@@ -3,6 +3,3 @@
 def fizzbuzz (n)
 
 end
-
-
-    
